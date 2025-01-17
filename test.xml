@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <string name="string">
+        <translation lang="ru">Строка</translation>
+        <translation lang="en">String</translation>
+        <translation lang="fr">Chaîne de caractères</translation>
+    </string>
+    <string name="line">
+        <translation lang="ru">Линия</translation>
+        <translation lang="en">Line</translation>
+        <translation lang="fr">Ligne</translation>
+    </string>
+</module>
